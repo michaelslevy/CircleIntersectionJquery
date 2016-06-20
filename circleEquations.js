@@ -2,8 +2,7 @@
 ;(function ( $, window, document, undefined ) {
 	$.fn.CircleEquation = function(settings){
 		 var self=this;  	
-		 console.log($(self).attr("cy"));
-    		
+
     	circle1=new Circle(0,0,0);
 		circle2=new Circle(0,0,0);
     		
