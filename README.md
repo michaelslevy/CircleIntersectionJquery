@@ -1,5 +1,5 @@
 # CircleIntersectionJquery
-A jQuery/Javascript Intersection Script
+A jQuery/Javascript Intersection Script for SVG
 
 Usage
 
