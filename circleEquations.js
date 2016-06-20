@@ -18,7 +18,6 @@
 		  self.settings = $.extend({}, config, settings);
 		  			  	
 		  	if(typeof config.circleToTest==="undefined"){
-		  		console.log("circleToTest is undefined");
 		  		return false;
 		  	}
 		  
